@@ -1,3 +1,179 @@
 body {
-	background:   ;
+	background-color: white;
+	margin: 5;
+	padding-left: 0;
+}
+
+ul.nav {
+	padding: 20px;
+	background: #0C2736;
+	margin: 0px;
+}
+
+h1 {
+	font-family: 'Marck Script', cursive;
+	font-color: #A4DFFF;
+	text-align: center;
+}
+
+p {
+	font-family: 'Bad Script', fantasy;
+	text-align: center;
+}
+
+div {
+
+}
+
+nav {
+
+}
+
+ul {
+
+}
+
+li {
+	display: inline;
+	text-decoration: none;
+	padding: 5px 15px 5px 15px;
+}
+
+ul.container {
+	padding: 20px;
+	background: #0C2736;
+	margin: 0px;
+}
+
+.supporting h3 {
+	font-family: 'Bad Script', fantasy;
+	margin: 10px;
+	text-align:center;
+	word-spacing: 1px;
+}
+
+.supporting h4 {
+	font-family: 'Bad Script', fantasy;
+	margin: 10px;
+	text-align:center;
+	word-spacing: 1px;
+}
+
+.banner h3 {
+	font-family: 'Marck Script', cursive;
+  	-webkit-font-family: 'Marck Script', cursive;
+  	text-align: center;
+  	font-size: 3em;
+}
+
+span {
+	font-family: 'Bad Script', fantasy;
+}
+
+.jumbotron {
+	font-size: 25px;
+	background-image: url("../img/IMG_3216.jpg");
+	height: 500px;
+	background-size: cover;
+	background-position: center;
+	color: #A4DFFF;
+	text-align: center;
+	padding-bottom: 0px;
+	margin: 0px;
+	font-family:'Marck Script', cursive;
+	color: #A4DFFF;
+}
+
+.container {
+	max-width: 600px;
+  	margin: 0 auto; 
+  	font-size: 30px;
+	color: #A4DFFF;
+	font-family: 'Marck Script', cursive;
+  	-webkit-font-family: 'Marck Script', cursive;
+  	font-weight: 20px;
+  	background-color: #0C2736;
+  	padding: 0px;
+  	text-align: center;
+}
+
+.intro {
+
+}
+
+.supporting {
+
+}
+
+.banner {
+
+}
+
+.col {
+	float: left;
+  	width: 90%;
+  	font-family: 'Bad Script', fantasy;
+  	color: #A4DFFF;
+  	text-align: center;
+  	margin: 10px;
+  	height: 400px; 
+  	background-size: cover;
+	background-position: center;
+}
+
+
+.living {
+	background-image: url("../img/IMG_3213.jpg");
+}
+
+.bedroom {
+	background-image: url("../img/IMG_3212.jpg");
+}
+
+.kitchen {
+	background-image: url("../img/IMG_3214.jpg");
+}
+
+.clearfix {
+	overflow: auto;
+	clear: both;
+}
+
+.misc {
+
+}
+
+section {
+	margin-top: 10px;
+  	padding: 5px;
+  	padding-bottom: 5px;
+  	background-color: #A4DFFF;
+  	border-top: 0;
+}
+
+footer {
+	font-size: 20px;
+	background-color: #0C2736;
+	margin-bottom: 0;
+	color: #A4DFFF;
+	padding: 2px 5px 2px 5px;
+	text-align: inline;	
+}
+
+footer ul {
+	margin: 0px;
+}
+
+i {
+	color: #A4DFFF;
+	/*text-align: right; */
+	margin: 0px;
+}
+
+footer small {
+ float: right; 
+}
+
+h5 {
+	text-align: center;
 }
