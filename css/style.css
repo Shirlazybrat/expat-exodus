@@ -19,6 +19,9 @@ div.navbar {
 	margin: 0px;
 }
 
+.navbar-nav a:hover, .nav a:focus {
+  text-decoration: none;
+}
 
 h1.leading {
 	font-family: 'Marck Script', cursive;
