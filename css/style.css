@@ -110,8 +110,22 @@ span {
 
 }
 
-.supporting {
+.photo img {
+	width: 900px;
+  	margin: 20px auto;
+  	padding: 50px;
+  	border-width: 10px; 
+}
 
+.photo h2{
+	font-family: 'Bad Script', fantasy;
+	text-align: center;
+	font-size: 3em;
+}
+
+.photo p{
+	font-size: 2em;
+	line-height: 60px;
 }
 
 .banner {
@@ -144,7 +158,7 @@ span {
 }
 
 .car {
-	background-image: url("../img/   ")
+	background-image: url("../img/IMG_3275_Fotor.jpg")
 }
 
 .more {
